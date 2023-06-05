@@ -16,7 +16,7 @@ Consigli:
 - Recupero l'elemento dal DOM
 - Creo una variabile per costruire la lista
 - Itero attraverso gli elementi dell'Array
-- Creo gli elementi della lista
+  - Creo gli elementi della lista
 - Inserisco il risulttato nella pagina HTML
 - Fine
 
@@ -31,7 +31,7 @@ Consigli:
 - Creo una variabile per costruire la lista
 - Inizializzo l'indice a 0
 - Itero finché l'indice è inferiore alla lunghezza dell'Array
-- Creo gli elementi della lista
-- Incremento l'indice
+  - Creo gli elementi della lista
+  - Incremento l'indice
 - Inserisco il risulttato nella pagina HTML
 - Fine
